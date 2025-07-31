@@ -1,0 +1,14 @@
+DACR License v1.0
+
+Permission is hereby granted to any person or organization (the "Licensee") to use this software and associated documentation files (the "Software") for commercial and non-commercial purposes, subject to the following conditions:
+
+1. Use of the Software must not:
+   - Contribute to the development of autonomous weapon systems;
+   - Support surveillance that targets protected classes;
+   - Be used to train models that violate civil, labor, or environmental rights.
+
+2. Redistributions must include this license and citation of the original creator.
+
+3. The Software is provided "as-is" without warranty of any kind.
+
+For full terms: https://github.com/defensive-ai/dacr-license
